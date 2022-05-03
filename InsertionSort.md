@@ -16,3 +16,5 @@
 - BigO değeri O(n^2)
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 - aranan 18 sayısı dizinin ortasında old için average case'dir.
+
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
