@@ -1,0 +1,2 @@
+# VeriYapilariveAlgoritmalar
+Veri Yapilari Odevleri 
