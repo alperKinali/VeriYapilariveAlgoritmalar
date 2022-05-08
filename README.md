@@ -3,4 +3,4 @@ Veri Yapilari Odevleri
 
 # License 
 [MIT](https://choosealicense.com/licenses/mit/) <br>
-[Patika](www.patika.dev)
+[Patika](https://app.patika.dev/Alperkinali)
